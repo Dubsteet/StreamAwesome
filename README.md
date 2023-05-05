@@ -9,3 +9,9 @@ Generate awesome looking stream deck icons like [these](https://www.instagram.co
 3. Extract the folder in `prototype` directory of cloned repository
 4. Rename extracted folder to `fontawesome`
 5. Open `prototype/index.html` in your favorite browser
+
+## Install with Docker
+1. Clone the repository
+2. If you have [Font Awesome Pro](https://fontawesome.com/download) download and extract it in the `prototype` directory and rename the extracted folder to `fontawesome` otherwise the free version will be downloaded and used automatically
+3. Run `docker-compose up`
+4. Open `localhost:8080` in your favorite browser and enjoy Stream Awesome
